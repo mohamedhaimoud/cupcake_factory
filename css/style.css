@@ -18,3 +18,30 @@ h1 {
     margin-top: 50px;
     margin-bottom: 80px;
 }
+
+
+.container{
+
+margin-top: 100px;
+display: flex;
+
+}
+
+
+#img{
+
+flex: 1;
+
+
+}
+
+
+#desc{
+
+flex: 1;
+
+    font-size: 14px;
+    padding: 42px;
+    margin-top: -25px;
+
+}
