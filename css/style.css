@@ -90,7 +90,7 @@ a{
 
 .flamingo{
 
-width: 50%;
+width: 100%;
 
 
 }
@@ -101,4 +101,9 @@ width: 50%;
 
 .bg-primary {
     background-color: #ff8080!important;
+}
+footer{
+    background-color: #E91E63;
+    color:white;
+    font-style: inherit;
 }
