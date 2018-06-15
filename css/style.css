@@ -49,8 +49,12 @@ flex: 1;
 
 .flamingo{
 
-width: 50%;
+width: 100%;
 
 
 }
-
+footer{
+    background-color: #E91E63;
+    color:white;
+    font-style: inherit;
+}
