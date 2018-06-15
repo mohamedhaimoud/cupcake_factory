@@ -69,14 +69,15 @@ li {
 }
 
 nav.navbar li a{
-	color:  black !important;
+	color:  white !important;
 	text-transform: uppercase;
 	text-decoration: none;
 	padding: 6px 18px 5px 18px;
 }
 a:hover{
 	color: #a40000;
-	background-color: #ffffff;
+	background-color: 
+ #700f70;
 }
 
 
@@ -94,3 +95,10 @@ width: 50%;
 
 }
 
+.navbar navbar-dark bg-primary {
+	background-color:  #ff8080;
+}
+
+.bg-primary {
+    background-color: #ff8080!important;
+}
